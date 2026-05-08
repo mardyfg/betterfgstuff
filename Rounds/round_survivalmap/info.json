@@ -1,8 +1,8 @@
 ﻿{
-  "displayName": "round_survivalmap",
+  "displayName": "survivalmap",
   "file": "round_survivalmap",
   "prefab": "round_survivalmap",
-  "skybox": "",
+  "skybox": "New Material 1",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
   "fog": "false",

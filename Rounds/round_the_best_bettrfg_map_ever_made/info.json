@@ -2,10 +2,10 @@
   "displayName": "The BEST BettrFG Map EVER MADE",
   "file": "round_the_best_bettrfg_map_ever_made",
   "prefab": "round_the_best_bettrfg_map_ever_made",
-  "skybox": "bald",
+  "skybox": "stentric weird face",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
-  "fog": "false",
-  "fogDensity": "5",
-  "fogColor": "1 0 0.7879014 0.4745098"
+  "fog": "true",
+  "fogDensity": "10",
+  "fogColor": "1 1 1 1"
 }

@@ -5,7 +5,7 @@
   "skybox": "Screenshot 2026-05-09 205453",
   "ambientMode": "0",
   "ambientLight": "1 0 0 1",
-  "fog": "true",
+  "fog": "false",
   "fogDensity": "0.01",
   "fogColor": "1 0 0 1"
 }

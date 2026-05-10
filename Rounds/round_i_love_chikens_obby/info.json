@@ -1,0 +1,11 @@
+﻿{
+  "displayName": "I love chikcens OBBY",
+  "file": "i_love_chikens_obby",
+  "prefab": "i_love_chikens_obby",
+  "skybox": "Screenshot 2026-05-09 205453",
+  "ambientMode": "3",
+  "ambientLight": "0 0 0 1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "1 0 0 1"
+}

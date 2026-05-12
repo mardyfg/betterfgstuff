@@ -6,6 +6,6 @@
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
   "fog": "true",
-  "fogDensity": "0.01",
+  "fogDensity": "0.001",
   "fogColor": "0.01960784 0.01960784 0.0627451 1"
 }

@@ -5,7 +5,7 @@
   "skybox": "light blue",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
-  "fog": "true",
+  "fog": "false",
   "fogDensity": "0.03",
   "fogColor": "0 0.7212255 1 1"
 }

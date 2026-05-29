@@ -1,7 +1,7 @@
 ﻿{
   "displayName": "TheBackrooms(FallGuys)",
-  "file": "round_thebackroomsfallguys",
-  "prefab": "round_thebackroomsfallguys",
+  "file": "round_thebackroomsfallguysupdate",
+  "prefab": "round_thebackroomsfallguysupdate",
   "skybox": "",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",

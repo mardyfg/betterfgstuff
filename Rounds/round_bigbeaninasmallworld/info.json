@@ -1,8 +1,8 @@
 ﻿{
   "displayName": "MCParkourInFallGuys",
-  "file": "round_bigbeaninasmallworld",
-  "prefab": "round_bigbeaninasmallworld",
-  "skybox": "",
+  "file": "round_bigbeaninasmallworldupdate",
+  "prefab": "round_bigbeaninasmallworldupdate",
+  "skybox": "Skybox",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
   "fog": "false",

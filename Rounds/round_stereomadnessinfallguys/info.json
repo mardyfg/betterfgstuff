@@ -1,8 +1,8 @@
 ﻿{
-  "displayName": "Spin Go Round STUMBLE GUYS",
-  "file": "round_spin_go_round_stumble_guys",
-  "prefab": "round_spin_go_round_stumble_guys",
-  "skybox": "skybox",
+  "displayName": "Stereo Madness In Fall Guys",
+  "file": "round_stereomadnessinfallguys",
+  "prefab": "round_stereomadnessinfallguys",
+  "skybox": "",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
   "fog": "false",

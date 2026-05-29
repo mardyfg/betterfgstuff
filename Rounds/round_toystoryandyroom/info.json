@@ -1,7 +1,7 @@
 ﻿{
   "displayName": "ToyStoryandyroom",
-  "file": "round_toystoryandyroom",
-  "prefab": "round_toystoryandyroom",
+  "file": "round_toystoryandyroomupdate",
+  "prefab": "round_toystoryandyroomupdate",
   "skybox": "skybox",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",

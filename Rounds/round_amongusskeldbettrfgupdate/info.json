@@ -1,7 +1,7 @@
 ﻿{
   "displayName": "AmongUsSkeldBettrFG",
-  "file": "round_amongusskeldbettrfg",
-  "prefab": "round_amongusskeldbettrfg",
+  "file": "round_amongusskeldbettrfgupdate",
+  "prefab": "round_amongusskeldbettrfgupdate",
   "skybox": "skybox",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",

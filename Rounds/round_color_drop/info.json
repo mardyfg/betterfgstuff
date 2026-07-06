@@ -1,0 +1,15 @@
+﻿{
+  "displayName": "Hex-A-Gone Mix Up",
+  "description": "",
+  "file": "round_color_drop",
+  "prefab": "round_color_drop",
+  "skybox": "Skybox",
+  "ambientMode": "0",
+  "ambientLight": "0.212 0.227 0.259 1",
+  "reflectionIntensity": "1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "0.5 0.5 0.5 1",
+  "keepExistingObjects": "true",
+  "music": "Mushroom Mix Up - Mario Party 64 Music_128K.mp3"
+}

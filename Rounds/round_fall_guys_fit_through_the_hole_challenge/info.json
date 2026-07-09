@@ -1,0 +1,15 @@
+﻿{
+  "displayName": "Fall Guys Fit Through The Hole Challenge",
+  "description": "Fit through all 11 holes to reach the finish line!",
+  "file": "round_fall_guys_fit_through_the_hole_challenge",
+  "prefab": "round_fall_guys_fit_through_the_hole_challenge",
+  "skybox": "skybox",
+  "ambientMode": "0",
+  "ambientLight": "0.212 0.227 0.259 1",
+  "reflectionIntensity": "1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "0.5 0.5 0.5 1",
+  "keepExistingObjects": "false",
+  "music": ""
+}
